@@ -1,0 +1,39 @@
+{
+  "name": "ganbaru",
+  "displayName": "ganbaru",
+  "description": "Japanese Dark Theme",
+  "version": "0.0.1",
+  "publisher": "Marlodev",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "marlodev",
+    "pro",
+    "ganbaru"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marlodevhub/ganbaru"
+  },
+  "icon": "icons/Ganbaru.png",
+  "author": {
+    "name": "Silva Marlo Nilton Hugo",
+    "email": "silvamarlo3990@gmail.com",
+    "url": "https://www.marlodev.com"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ganbaru",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ganbaru-color-theme.json"
+      }
+    ]
+  }
+}
