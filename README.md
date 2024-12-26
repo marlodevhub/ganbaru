@@ -1,7 +1,8 @@
 # Ganbaru
 
-![Ganbaru Theme Preview](img/Ganbaru_img.png "Ganbaru Theme Preview")
-
+<a href="https://github.com/marlodevhub/ganbaru/blob/master/img/Ganbaru_img.png" target="_BLANK">
+<img alt="Example" src="https://github.com/marlodevhub/ganbaru/blob/master/img/Ganbaru_img.png">
+</a>
 ## Description
 
 Ganbaru is a dark theme inspired by Japanese aesthetics, designed to offer an elegant and calming coding experience in Visual Studio Code. Perfect for developers seeking a comfortable and motivating workspace.
