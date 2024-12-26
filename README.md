@@ -1,37 +1,39 @@
 # Ganbaru
 
-## Descripción
+![Ganbaru Theme Preview](img/Ganbaru_img.png "Ganbaru Theme Preview")
 
-Ganbaru es un tema oscuro inspirado en la estética japonesa, diseñado para ofrecer una experiencia de codificación elegante y relajante en Visual Studio Code. Perfecto para desarrolladores que buscan un entorno de trabajo cómodo y motivador.
+## Description
 
-## Características
+Ganbaru is a dark theme inspired by Japanese aesthetics, designed to offer an elegant and calming coding experience in Visual Studio Code. Perfect for developers seeking a comfortable and motivating workspace.
 
-- **Tema oscuro**: Reduce la fatiga visual durante largas sesiones de codificación.
-- **Estética japonesa**: Colores y diseño que reflejan la simplicidad y belleza del arte japonés.
-- **Compatible**: Funciona perfectamente con todos los lenguajes de programación soportados por Visual Studio Code.
+## Features
 
-## Instalación
+-   **Dark Theme**: Reduces eye strain during long coding sessions.
+-   **Japanese Aesthetic**: Colors and design that reflect the simplicity and beauty of Japanese art.
+-   **Compatibility**: Works seamlessly with all programming languages supported by Visual Studio Code.
 
-1. Abre Visual Studio Code.
-2. Ve a la pestaña de Extensiones (Ctrl + Shift + X).
-3. Busca "Ganbaru" y haz clic en "Instalar".
+## Installation
 
-## Uso
+1. Open Visual Studio Code.
+2. Go to the Extensions view (Ctrl + Shift + X).
+3. Search for "Ganbaru" and click "Install".
 
-Para activar el tema Ganbaru:
+## Usage
 
-1. Abre la Paleta de Comandos (Ctrl + Shift + P).
-2. Escribe "Tema de Color" y selecciona "Preferencias: Cambiar Color de Tema".
-3. Busca "Ganbaru" y selecciona el tema.
+To activate the Ganbaru theme:
 
-## Contribuciones
+1. Open the Command Palette (Ctrl + Shift + P).
+2. Type "Color Theme" and select **Preferences: Change Color Theme**.
+3. Search for "Ganbaru" and choose the theme.
 
-Las contribuciones son bienvenidas. Si deseas mejorar este tema o agregar nuevas características, no dudes en abrir un problema o una solicitud de extracción.
+## Contributions
 
-## Licencia
+Contributions are welcome! If you’d like to improve this theme or add new features, feel free to open an issue or submit a pull request.
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+## License
 
-## Contacto
+This project is licensed under the [MIT License](LICENSE).
 
-Si tienes preguntas o sugerencias, no dudes en contactarme a través de [tu correo electrónico o tu perfil de GitHub].
+## Contact
+
+If you have any questions or suggestions, don’t hesitate to contact me via [your email or GitHub profile].

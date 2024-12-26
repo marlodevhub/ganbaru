@@ -2,7 +2,7 @@
   "name": "ganbaru",
   "displayName": "Ganbaru",
   "description": "Japanese Dark Theme",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.95.0"
