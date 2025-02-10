@@ -2,7 +2,7 @@
   "name": "ganbaru",
   "displayName": "Ganbaru",
   "description": "Japanese Dark Theme",
-  "version": "0.0.8",
+  "version": "0.2.8",
   "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.95.0"
@@ -30,9 +30,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ganbaru",
+        "label": "Ganbaru Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/Ganbaru-color-theme.json"
+      },
+      {
+        "label": "Ganbaru Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ganbaru-color-theme-dark.json"
       }
     ]
   }
