@@ -1,4 +1,4 @@
-# Ganbaru
+# Ganbaru Theme
 
 ![Ganbaru Theme Preview](img/Ganbaru_img.png "Ganbaru Theme Preview")
 
@@ -6,19 +6,19 @@
 
 Ganbaru is a dark theme inspired by Japanese aesthetics, designed to offer an elegant and calming coding experience in Visual Studio Code. Perfect for developers seeking a comfortable and motivating workspace.
 
-## Features
+## ✨ Features
 
 -   **Dark Theme**: Reduces eye strain during long coding sessions.
 -   **Japanese Aesthetic**: Colors and design that reflect the simplicity and beauty of Japanese art.
 -   **Compatibility**: Works seamlessly with all programming languages supported by Visual Studio Code.
 
-## Installation
+## 📥 Installation
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view (Ctrl + Shift + X).
 3. Search for "Ganbaru" and click "Install".
 
-## Usage
+## 🎨 Usage
 
 To activate the Ganbaru theme:
 
@@ -26,14 +26,14 @@ To activate the Ganbaru theme:
 2. Type "Color Theme" and select **Preferences: Change Color Theme**.
 3. Search for "Ganbaru" and choose the theme.
 
-## Contributions
+## 🤝 Contributions
 
 Contributions are welcome! If you’d like to improve this theme or add new features, feel free to open an issue or submit a pull request.
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## 📩 Contact
 
 If you have any questions or suggestions, don’t hesitate to contact me via [your email or GitHub profile].
