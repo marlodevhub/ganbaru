@@ -2,7 +2,7 @@
   "name": "ganbaru",
   "displayName": "Ganbaru",
   "description": "Japanese Dark Theme",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.95.0"
@@ -15,11 +15,11 @@
     "theme",
     "marlodev",
     "pro",
-    "ganbaru"
+    "bamboo"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/marlodevhub/ganbaru"
+    "url": "https://github.com/marlodevhub/bamboo"
   },
   "icon": "icons/Ganbaru.png",
   "author": {
