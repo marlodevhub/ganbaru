@@ -1,6 +1,6 @@
 # Ganbaru Theme
 
-![Ganbaru Theme Preview](img/Ganbaru_img.png "Ganbaru Theme Preview")
+![Ganbaru Theme Preview](https://github.com/marlodevhub/ganbaru/raw/HEAD/img/Ganbaru_img.png "Ganbaru Theme Preview")
 
 ## Description
 
