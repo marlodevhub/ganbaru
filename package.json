@@ -1,8 +1,8 @@
 {
   "name": "ganbaru",
   "displayName": "Ganbaru",
-  "description": "Japanese Dark Theme",
-  "version": "0.3.7",
+  "description": "🌿Theme inspired by oriental nature, bringing the essence of nature to your screen for a chill coding vibe.",
+  "version": "1.0.0",
   "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.95.0"
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/marlodevhub/bamboo"
+    "url": "https://github.com/marlodevhub/ganbaru"
   },
   "icon": "icons/Ganbaru.png",
   "author": {

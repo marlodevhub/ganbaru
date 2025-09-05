@@ -2,7 +2,6 @@
 
 ![Ganbaru Theme Preview](https://github.com/marlodevhub/ganbaru/raw/HEAD/img/banner1.png "Ganbaru Theme Preview")
 ![Ganbaru Theme Preview](https://github.com/marlodevhub/ganbaru/raw/HEAD/img/banner2.png "Ganbaru Theme Preview")
-
 **Ganbaru Theme** is a dark theme inspired by oriental nature, designed to provide a fresh, relaxing, and harmonious coding experience in **Visual Studio Code**. Its color palette evokes the serenity of bamboo forests, conveying balance and focus through natural and soft tones.
 
 ## Variants
